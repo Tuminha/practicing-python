@@ -62,31 +62,42 @@ while j < len(matrix[0]):
     j += 1
 
 # PHASE 3: Find row with maximum sum
-max_row_sum = max(row_sums)
-max_row_index = row_sums.index(max_row_sum)
 print(f"\n=== MAXIMUM ROW ANALYSIS ===")
-print(f"Row {max_row_index} has the maximum sum: {max_row_sum}")
+max_value = max(row_sums)
+max_index = row_sums.index(max_value)
+print(f"Row {max_index} has the maximum sum: {max_value}")
 
 # PHASE 4: Calculate average of all elements
-total_elements = len(all_elements)
-total_sum = sum(all_elements)
-average = total_sum / total_elements
 print(f"\n=== AVERAGE CALCULATION ===")
+total_sum = sum(all_elements)
+total_elements = len(all_elements)
+average = total_sum / total_elements
 print(f"Total elements: {total_elements}")
 print(f"Total sum: {total_sum}")
 print(f"Average: {average:.2f}")
 
 # PHASE 5: Find elements greater than average
 print(f"\n=== ELEMENTS ABOVE AVERAGE ===")
+elements_position_above_average = []
+
+# Reset loop counter for matrix traversal
 i = 0
 while i < len(matrix):
     j = 0
-    while j < len(matrix[i]):
+    while j < len(matrix[0]):
+        # Check if current element is above average
         if matrix[i][j] > average:
             elements_above_avg.append(matrix[i][j])
+            position = [i, j]
+            elements_position_above_average.append(position)
             print(f"Element {matrix[i][j]} at position [{i}][{j}] is above average")
         j += 1
     i += 1
+
+print(f"Elements above average: {elements_above_avg}")
+print(f"Positions: {elements_position_above_average}")
+
+
 
 # PHASE 6: Display comprehensive statistics
 print(f"\n=== COMPREHENSIVE STATISTICS ===")
@@ -94,3 +105,4 @@ print(f"Row sums: {row_sums}")
 print(f"Column sums: {column_sums}")
 print(f"Elements above average ({average:.2f}): {elements_above_avg}")
 print(f"Count of elements above average: {len(elements_above_avg)}")
+print(f"Maximum row sum: {max_value} (Row {max_index})")
