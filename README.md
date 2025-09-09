@@ -45,6 +45,7 @@ My first completed module! This folder contains 6 progressive exercises that tau
 | `while_5.py` | 🟡🟡 Intermediate | ✅ Complete | Multiple conditions, modulo operator |
 | `while_6.py` | 🟡🟡🟡 Intermediate-Advanced | ✅ Complete | List building, data filtering |
 | `while_7.py` | 🔴 Advanced | ✅ Complete | Nested loops, complex data processing |
+| `while_8.py` | 🔴🔴 Advanced-Expert | ✅ Complete | Matrix operations, statistical analysis |
 
 ### 🎓 What I Learned
 
@@ -57,6 +58,8 @@ My first completed module! This folder contains 6 progressive exercises that tau
 - **List manipulation** and building new data structures
 - **Nested loops** and complex iteration patterns
 - **Advanced data processing** with multiple criteria
+- **Matrix operations** and 2D list processing
+- **Statistical analysis** and mathematical calculations
 
 ---
 
@@ -75,6 +78,7 @@ My first completed module! This folder contains 6 progressive exercises that tau
 - ✅ **List Operations**: Indexing, appending, iteration
 - ✅ **Mathematical Operations**: Modulo, comparison operators
 - ✅ **Nested Iteration**: Complex loop structures and algorithms
+- ✅ **Matrix Processing**: 2D list operations and statistical analysis
 - 🔄 **Built-in Functions**: len(), range(), etc. (coming soon)
 - 🔄 **Error Handling**: Try/except blocks (coming soon)
 
