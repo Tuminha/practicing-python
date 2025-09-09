@@ -23,7 +23,7 @@ This repository contains my structured approach to learning Python programming c
 | Module | Status | Difficulty | Description |
 |--------|--------|------------|-------------|
 | **while_practice** | ✅ Complete | 🟢🟢🟢 | While loop fundamentals and applications |
-| **for_practice** | 🔄 Coming Soon | - | For loop mastery |
+| **for_practice** | 🔄 In Progress | 🟢🟢 | For loop mastery and advanced iteration |
 | **functions_practice** | 🔄 Coming Soon | - | Function definition and usage |
 | **classes_practice** | 🔄 Coming Soon | - | Object-oriented programming |
 | **algorithms_practice** | 🔄 Coming Soon | - | Data structures and algorithms |
@@ -63,12 +63,38 @@ My first completed module! This folder contains 6 progressive exercises that tau
 
 ---
 
+## 🔄 For Loop Practice (`for_practice/`)
+
+My second module in progress! This folder focuses on mastering for loops and advanced iteration patterns.
+
+### 📊 Exercise Progress
+
+| Exercise | Difficulty | Status | Key Concepts |
+|----------|------------|--------|--------------|
+| `for_1.py` | 🟢 Beginner | ✅ Complete | Basic iteration, range(), enumerate(), string processing |
+| `for_2.py` | 🟢🟢 Easy | ✅ Complete | Advanced iteration, zip(), data filtering, transformation |
+| `for_3.py` | 🟢🟢🟢 Easy-Intermediate | 🔄 Coming Soon | Nested for loops, complex data structures |
+| `for_4.py` | 🟡 Intermediate | 🔄 Coming Soon | List comprehensions, advanced patterns |
+| `for_5.py` | 🟡🟡 Intermediate | 🔄 Coming Soon | Performance optimization, best practices |
+
+### 🎓 What I'm Learning
+
+- **For loop syntax** and automatic iteration
+- **range() function** with different parameters
+- **enumerate()** for index-value pairs
+- **zip()** for parallel iteration through multiple lists
+- **Data processing patterns** with for loops
+- **Performance differences** between for and while loops
+
+---
+
 ## 🛠️ Technical Skills Developed
 
 ### Core Programming Concepts
 - ✅ **Control Flow**: While loops, conditionals, early exit
 - ✅ **Data Manipulation**: Counting, summing, filtering
 - ✅ **Algorithm Design**: Search, comparison, accumulation
+- ✅ **Iteration Patterns**: For loops, range(), enumerate(), zip()
 - 🔄 **Data Structures**: Lists, arrays (coming soon)
 - 🔄 **Functions**: Modular programming (coming soon)
 - 🔄 **Object-Oriented Programming**: Classes and objects (coming soon)
@@ -79,7 +105,8 @@ My first completed module! This folder contains 6 progressive exercises that tau
 - ✅ **Mathematical Operations**: Modulo, comparison operators
 - ✅ **Nested Iteration**: Complex loop structures and algorithms
 - ✅ **Matrix Processing**: 2D list operations and statistical analysis
-- 🔄 **Built-in Functions**: len(), range(), etc. (coming soon)
+- ✅ **For Loop Mastery**: range(), enumerate(), zip(), data processing
+- 🔄 **Built-in Functions**: Advanced functions (coming soon)
 - 🔄 **Error Handling**: Try/except blocks (coming soon)
 
 ---
