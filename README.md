@@ -74,7 +74,7 @@ My second module in progress! This folder focuses on mastering for loops and adv
 | `for_1.py` | 🟢 Beginner | ✅ Complete | Basic iteration, range(), enumerate(), string processing |
 | `for_2.py` | 🟢🟢 Easy | ✅ Complete | Advanced iteration, zip(), data filtering, transformation |
 | `for_3.py` | 🟢🟢🟢 Easy-Intermediate | ✅ Complete | Nested for loops, complex data structures, dictionary processing |
-| `for_4.py` | 🟡 Intermediate | 🔄 Coming Soon | List comprehensions, advanced patterns |
+| `for_4.py` | 🟡 Intermediate | ✅ Complete | List comprehensions, advanced patterns |
 | `for_5.py` | 🟡🟡 Intermediate | 🔄 Coming Soon | Performance optimization, best practices |
 
 ### 🎓 What I'm Learning
@@ -87,6 +87,8 @@ My second module in progress! This folder focuses on mastering for loops and adv
 - **Performance differences** between for and while loops
 - **Nested for loops** for complex data structures
 - **Dictionary processing** and data aggregation
+- **List comprehensions** and Pythonic coding patterns
+- **Advanced filtering** and transformation techniques
 
 ---
 
@@ -108,6 +110,7 @@ My second module in progress! This folder focuses on mastering for loops and adv
 - ✅ **Nested Iteration**: Complex loop structures and algorithms
 - ✅ **Matrix Processing**: 2D list operations and statistical analysis
 - ✅ **For Loop Mastery**: range(), enumerate(), zip(), data processing
+- ✅ **List Comprehensions**: Pythonic list creation and filtering
 - 🔄 **Built-in Functions**: Advanced functions (coming soon)
 - 🔄 **Error Handling**: Try/except blocks (coming soon)
 
