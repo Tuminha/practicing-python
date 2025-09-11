@@ -23,7 +23,7 @@ This repository contains my structured approach to learning Python programming c
 | Module | Status | Difficulty | Description |
 |--------|--------|------------|-------------|
 | **while_practice** | ✅ Complete | 🟢🟢🟢 | While loop fundamentals and applications |
-| **for_practice** | 🔄 In Progress | 🟢🟢 | For loop mastery and advanced iteration |
+| **for_practice** | ✅ Complete | 🟡 | For loop mastery and advanced iteration |
 | **functions_practice** | 🔄 Coming Soon | - | Function definition and usage |
 | **classes_practice** | 🔄 Coming Soon | - | Object-oriented programming |
 | **algorithms_practice** | 🔄 Coming Soon | - | Data structures and algorithms |
@@ -75,7 +75,7 @@ My second module in progress! This folder focuses on mastering for loops and adv
 | `for_2.py` | 🟢🟢 Easy | ✅ Complete | Advanced iteration, zip(), data filtering, transformation |
 | `for_3.py` | 🟢🟢🟢 Easy-Intermediate | ✅ Complete | Nested for loops, complex data structures, dictionary processing |
 | `for_4.py` | 🟡 Intermediate | ✅ Complete | List comprehensions, advanced patterns |
-| `for_5.py` | 🟡🟡 Intermediate | 🔄 Coming Soon | Performance optimization, best practices |
+| `for_5.py` | 🟡🟡 Intermediate | ✅ Complete | Performance optimization, best practices, built-in functions |
 
 ### 🎓 What I'm Learning
 
@@ -89,6 +89,10 @@ My second module in progress! This folder focuses on mastering for loops and adv
 - **Dictionary processing** and data aggregation
 - **List comprehensions** and Pythonic coding patterns
 - **Advanced filtering** and transformation techniques
+- **Performance optimization** and built-in functions
+- **Generator expressions** and memory efficiency
+- **any() and all()** for efficient boolean operations
+- **Matrix operations** and statistical analysis
 
 ---
 
@@ -111,6 +115,9 @@ My second module in progress! This folder focuses on mastering for loops and adv
 - ✅ **Matrix Processing**: 2D list operations and statistical analysis
 - ✅ **For Loop Mastery**: range(), enumerate(), zip(), data processing
 - ✅ **List Comprehensions**: Pythonic list creation and filtering
+- ✅ **Performance Optimization**: Built-in functions, timing analysis
+- ✅ **Memory Efficiency**: Generator expressions, optimization techniques
+- ✅ **Built-in Functions**: any(), all(), sum(), max(), min()
 - 🔄 **Built-in Functions**: Advanced functions (coming soon)
 - 🔄 **Error Handling**: Try/except blocks (coming soon)
 
