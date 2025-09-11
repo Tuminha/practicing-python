@@ -24,7 +24,7 @@ This repository contains my structured approach to learning Python programming c
 |--------|--------|------------|-------------|
 | **while_practice** | ✅ Complete | 🟢🟢🟢 | While loop fundamentals and applications |
 | **for_practice** | ✅ Complete | 🟡 | For loop mastery and advanced iteration |
-| **functions_practice** | 🔄 Coming Soon | - | Function definition and usage |
+| **functions_practice** | 🔄 In Progress | 🟢 | Function definition and usage |
 | **classes_practice** | 🔄 Coming Soon | - | Object-oriented programming |
 | **algorithms_practice** | 🔄 Coming Soon | - | Data structures and algorithms |
 
@@ -96,7 +96,33 @@ My second module in progress! This folder focuses on mastering for loops and adv
 
 ---
 
-## 🛠️ Technical Skills Developed
+## 🔧 Functions Practice (`functions_practice/`)
+
+My third module in progress! This folder focuses on mastering Python functions and modular programming.
+
+### 📊 Exercise Progress
+
+| Exercise | Difficulty | Status | Key Concepts |
+|----------|------------|--------|--------------|
+| `functions_1.py` | 🟢 Beginner | ✅ Complete | Function definition, parameters, return values, scope, default parameters |
+| `functions_2.py` | 🟢🟢 Easy | 🔄 Coming Soon | Advanced parameters, keyword arguments, function composition |
+| `functions_3.py` | 🟢🟢🟢 Easy-Intermediate | 🔄 Coming Soon | Recursion, lambda functions, decorators |
+| `functions_4.py` | 🟡 Intermediate | 🔄 Coming Soon | Error handling, exception management |
+| `functions_5.py` | 🟡🟡 Intermediate | 🔄 Coming Soon | Advanced patterns, closures, generators |
+
+### 🎓 What I'm Learning
+
+- **Function definition** and calling syntax
+- **Parameters and arguments** (positional, keyword, default)
+- **Return values** and multiple returns
+- **Variable scope** (local vs global)
+- **Function documentation** with docstrings
+- **Code reusability** and modular programming
+- **Function composition** and higher-order functions
+- **Error handling** in functions
+- **Advanced function patterns** and best practices
+
+---
 
 ### Core Programming Concepts
 - ✅ **Control Flow**: While loops, conditionals, early exit
@@ -118,7 +144,9 @@ My second module in progress! This folder focuses on mastering for loops and adv
 - ✅ **Performance Optimization**: Built-in functions, timing analysis
 - ✅ **Memory Efficiency**: Generator expressions, optimization techniques
 - ✅ **Built-in Functions**: any(), all(), sum(), max(), min()
-- 🔄 **Built-in Functions**: Advanced functions (coming soon)
+- ✅ **Function Definition**: Parameters, return values, scope
+- ✅ **Function Documentation**: Docstrings and best practices
+- 🔄 **Advanced Functions**: Recursion, decorators (coming soon)
 - 🔄 **Error Handling**: Try/except blocks (coming soon)
 
 ---
