@@ -105,7 +105,7 @@ My third module in progress! This folder focuses on mastering Python functions a
 | Exercise | Difficulty | Status | Key Concepts |
 |----------|------------|--------|--------------|
 | `functions_1.py` | 🟢 Beginner | ✅ Complete | Function definition, parameters, return values, scope, default parameters |
-| `functions_2.py` | 🟢🟢 Easy | 🔄 Coming Soon | Advanced parameters, keyword arguments, function composition |
+| `functions_2.py` | 🟢🟢 Easy | ✅ Complete | Advanced parameters, keyword arguments, function composition, higher-order functions |
 | `functions_3.py` | 🟢🟢🟢 Easy-Intermediate | 🔄 Coming Soon | Recursion, lambda functions, decorators |
 | `functions_4.py` | 🟡 Intermediate | 🔄 Coming Soon | Error handling, exception management |
 | `functions_5.py` | 🟡🟡 Intermediate | 🔄 Coming Soon | Advanced patterns, closures, generators |
@@ -119,6 +119,8 @@ My third module in progress! This folder focuses on mastering Python functions a
 - **Function documentation** with docstrings
 - **Code reusability** and modular programming
 - **Function composition** and higher-order functions
+- **Variable-length arguments** (*args, **kwargs)
+- **Function factories** and function as parameters
 - **Error handling** in functions
 - **Advanced function patterns** and best practices
 
